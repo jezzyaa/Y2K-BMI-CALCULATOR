@@ -6,7 +6,9 @@
 ## 📸 Tampilan Aplikasi
 https://github.com/user-attachments/assets/86709be7-3c5a-47c6-9d56-d43326897008
 ---
-#Cara Menjalankan 
+
+##Cara Menjalankan 
+
 Pra-Syarat :
 - JDK 17
 - Apache Maven
@@ -14,6 +16,7 @@ Pra-Syarat :
 
 clone repo:
 git clone https://github.com/jezzyaa/Y2K-BMI-CALCULATOR.git
+
 cd bmiCal
 
 Run:
@@ -24,7 +27,7 @@ mvn clean javafx:run
 **Y2K BMI Calculator** adalah aplikasi desktop interaktif yang membantu pengguna menghitung Indeks Massa Tubuh (BMI) berdasarkan input nama, gender, berat badan (kg), dan tinggi badan (cm).
 ---
 
-## 🛠️ Penerapan Konsep Model-View-Controller (MVC)[cite: 1, 3]:
+## 🛠️ Penerapan Konsep Model-View-Controller (MVC)
    - **Model (`model.BmiCalc`)**: Menyimpan state data (nama, gender, berat, tinggi), mengisolasi rumus matematika BMI, serta menentukan kategori status tubuh.
    - **View (`BmiCalView.fxml`)**: Mendefinisikan antarmuka visual UI berbasis XML, komponen tata letak (`VBox`, `HBox`, `AnchorPane`), elemen SVG, dan CSS styling.
    - **Controller (`controller.BmiController`)**: Menghubungkan View dan Model, menangani event aksi tombol (`#handleCalculate`, `#handleReset`), serta mengelola dynamic styling.
