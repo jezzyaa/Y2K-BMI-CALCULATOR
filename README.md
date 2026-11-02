@@ -1,13 +1,13 @@
 # 💖 Y2K BMI Calculator (JavaFX MVC Application)
 > Aplikasi kalkulator Indeks Massa Tubuh (BMI)
-
 ---
-
 ## 📸 Tampilan Aplikasi
+<img width="320" height="512" alt="WhatsApp Image 2026-11-02 at 13 14 51" src="https://github.com/user-attachments/assets/02940b98-44c0-4096-bec9-8c0c9abe6078" />
+
+- Video
 https://github.com/user-attachments/assets/86709be7-3c5a-47c6-9d56-d43326897008
 ---
-
-##Cara Menjalankan 
+# 📍 Cara Menjalankan :
 
 Pra-Syarat :
 - JDK 17
@@ -15,6 +15,7 @@ Pra-Syarat :
 - Git
 
 clone repo:
+
 git clone https://github.com/jezzyaa/Y2K-BMI-CALCULATOR.git
 
 cd bmiCal
