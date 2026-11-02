@@ -6,6 +6,18 @@
 ## 📸 Tampilan Aplikasi
 https://github.com/user-attachments/assets/86709be7-3c5a-47c6-9d56-d43326897008
 ---
+#Cara Menjalankan 
+Pra-Syarat :
+- JDK 17
+- Apache Maven
+- Git
+
+clone repo:
+git clone https://github.com/jezzyaa/Y2K-BMI-CALCULATOR.git
+cd bmiCal
+
+Run:
+mvn clean javafx:run
 
 ## 📌 Deskripsi Proyek
 
